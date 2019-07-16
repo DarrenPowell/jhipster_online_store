@@ -41,6 +41,8 @@
     "languages": [
       "en",
       "al"
-    ]
+    ],
+    "herokuAppName": "intense-everglades-50442",
+    "herokuDeployType": "git"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "storeApp": {
+    "orderItem": {
+      "home": {
+        "title": "Order Items",
+        "createLabel": "Krijo një të ri Order Item",
+        "createOrEditLabel": "Krijo ose përpuno një Order Item",
+        "notFound": "No Order Item found"
+      },
+      "created": "Një Order Item i ri u krijua me identifikues {{ param }}",
+      "updated": "Një Order Item u përpunua me identifikues {{ param }}",
+      "deleted": "Një Order Item u fshi me identifikues {{ param }}",
+      "delete": {
+        "question": "Jeni i sigurtë që doni të fshini Order Item {{ id }}?"
+      },
+      "detail": {
+        "title": "Order Item"
+      },
+      "quantity": "Quantity",
+      "totalPrice": "Total Price",
+      "status": "Status",
+      "product": "Product",
+      "order": "Order"
+    }
+  }
+}
